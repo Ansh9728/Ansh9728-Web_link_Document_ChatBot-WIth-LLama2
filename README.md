@@ -8,3 +8,6 @@ Click the 'Open in Google Colab' button below to seamlessly launch and explore t
 <a href="https://colab.research.google.com/drive/182lefoU1iq-G1EOvCN2r0fkytBsDSJYd?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+<p>Below is the screencshot of the project </p>
+  <img src="Screenshot (18).png" alt="screenshot of project"/>
